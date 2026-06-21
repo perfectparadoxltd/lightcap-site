@@ -3,13 +3,13 @@
     <channel>
         <title>Lightcap</title>
         <item>
-            <title>0.1.1</title>
-            <pubDate>Thu, 18 Jun 2026 06:42:52 +0100</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <title>0.1.2</title>
+            <pubDate>Sun, 21 Jun 2026 23:44:57 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://lightcap.perfectparadox.co.uk/Lightcap-0.1.1.zip" length="3399503" type="application/octet-stream" sparkle:edSignature="VsSUzU85ZE8lvK4cJpPrkVZ7VXDGtWprfg3uQGOYrMEilMP84TPzDWQKdCu7+Vb1tjtXjtoyAscky6y3rrtADw=="/>
+            <enclosure url="https://lightcap.perfectparadox.co.uk/Lightcap-0.1.2.zip" length="3420767" type="application/octet-stream" sparkle:edSignature="mnINAohaSzMPEkG6ETc2jR8j7WmkoVXslRGFK5yoZ1WeSJ4f/0TrJ80Mdk6udtsLLPnoRME8cXQcRy508KniAg=="/>
         </item>
     </channel>
 </rss>
