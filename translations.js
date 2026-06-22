@@ -101,8 +101,8 @@ window.I18N = {
     "feat.2.body": "Region clips come out as optimised GIFs or H.265 MP4s &mdash; often well under a megabyte, not the 200 MB QuickTime hands you for the same ten seconds. The <b style=\"color:var(--indigo2)\">Slack</b> preset caps resolution to ≤960px so a UI clip stays small; full-screen 4K naturally weighs more.",
     "feat.3.title": "Presets that<br>hit the target",
     "feat.3.body": "Pick where it's going and Lightcap sizes the clip to fit: <b style=\"color:var(--indigo2)\">Slack</b> (&lt;2 MB), <b style=\"color:var(--indigo2)\">GitHub</b> (&lt;10 MB) or <b style=\"color:var(--indigo2)\">Docs</b>. Adaptive frame rate means it won't waste 60fps on a still terminal &mdash; it records what actually moves.",
-    "feat.4.title": "Trim, highlight,<br>history",
-    "feat.4.body": "Top and tail a clip with a fast inline trim before it lands. Clicks get auto-highlighted so viewers can follow along, and your last 20 clips stay in a local history &mdash; one click to re-copy or open the folder. Everything on-device. One-time purchase.",
+    "feat.4.title": "Live outline<br>& history",
+    "feat.4.body": "A live outline frames exactly what you're recording, so you always know the bounds. Your last 20 clips stay in a local history — open any clip or reveal it in Finder in one click. Everything on-device. One-time purchase.",
 
     "pre.label": "// Size presets",
     "pre.1.name": "Slack",
@@ -140,7 +140,7 @@ window.I18N = {
 
     "faq.label": "// Questions",
     "faq.1.q": "Does anything leave my Mac?",
-    "faq.1.a": "No. Recording, encoding, optimisation and trimming all run entirely on your Mac. Your screen recordings are never uploaded anywhere. The only network connections Lightcap ever makes are an update check and a one-off licence validation — never your clips. You can confirm this yourself with a firewall tool like Little Snitch or LuLu.",
+    "faq.1.a": "No. Recording, encoding and optimisation all run entirely on your Mac. Your screen recordings are never uploaded anywhere. The only network connections Lightcap ever makes are an update check and a one-off licence validation — never your clips. You can confirm this yourself with a firewall tool like Little Snitch or LuLu.",
     "faq.2.q": "What formats does it output?",
     "faq.2.a": "Optimised animated GIF and H.265 (HEVC) MP4. GIF is the most universally pasteable; H.265 MP4 gives you much smaller files at higher quality for places that accept video. You pick the default, and a size preset (Slack / GitHub / Docs) tunes the resolution and bitrate to fit where the clip is going.",
     "faq.3.q": "How does the hotkey work?",
@@ -249,8 +249,8 @@ window.I18N = {
     "feat.2.body": "Los clips de región salen como GIFs optimizados o MP4 H.265 &mdash; a menudo muy por debajo de un megabyte, no los 200 MB que te entrega QuickTime por los mismos diez segundos. El preajuste <b style=\"color:var(--indigo2)\">Slack</b> limita la resolución a ≤960px para que un clip de interfaz quede pequeño; una pantalla completa en 4K pesa más, lógicamente.",
     "feat.3.title": "Preajustes que<br>dan en el blanco",
     "feat.3.body": "Elige a dónde va y Lightcap ajusta el tamaño del clip para que encaje: <b style=\"color:var(--indigo2)\">Slack</b> (&lt;2 MB), <b style=\"color:var(--indigo2)\">GitHub</b> (&lt;10 MB) o <b style=\"color:var(--indigo2)\">Docs</b>. La tasa de fotogramas adaptativa hace que no malgaste 60fps en un terminal quieto &mdash; graba lo que de verdad se mueve.",
-    "feat.4.title": "Recorta, resalta,<br>historial",
-    "feat.4.body": "Ajusta el principio y el final de un clip con un recorte rápido en línea antes de que aparezca. Los clics se resaltan automáticamente para que quien lo vea pueda seguirlo, y tus últimos 20 clips quedan en un historial local &mdash; un clic para volver a copiar o abrir la carpeta. Todo en tu dispositivo. Pago único.",
+    "feat.4.title": "Borde en vivo<br>e historial",
+    "feat.4.body": "Un borde en vivo enmarca justo lo que estás grabando, para que siempre sepas los límites. Tus últimos 20 clips quedan en un historial local — abre cualquiera o muéstralo en Finder con un clic. Todo en tu dispositivo. Pago único.",
 
     "pre.label": "// Preajustes de tamaño",
     "pre.1.name": "Slack",
@@ -288,7 +288,7 @@ window.I18N = {
 
     "faq.label": "// Preguntas",
     "faq.1.q": "¿Algo sale de mi Mac?",
-    "faq.1.a": "No. La grabación, la codificación, la optimización y el recorte se ejecutan por completo en tu Mac. Tus grabaciones de pantalla nunca se suben a ningún sitio. Las únicas conexiones de red que hace Lightcap son una comprobación de actualizaciones y una validación única de licencia — nunca tus clips. Puedes verificarlo tú mismo con un cortafuegos como Little Snitch o LuLu.",
+    "faq.1.a": "No. La grabación, la codificación y la optimización se ejecutan por completo en tu Mac. Tus grabaciones de pantalla nunca se suben a ningún sitio. Las únicas conexiones de red que hace Lightcap son una comprobación de actualizaciones y una validación única de licencia — nunca tus clips. Puedes verificarlo tú mismo con un cortafuegos como Little Snitch o LuLu.",
     "faq.2.q": "¿Qué formatos genera?",
     "faq.2.a": "GIF animado optimizado y MP4 H.265 (HEVC). El GIF es lo más universalmente pegable; el MP4 H.265 te da archivos mucho más pequeños con mayor calidad para sitios que aceptan vídeo. Tú eliges el formato por defecto, y un preajuste de tamaño (Slack / GitHub / Docs) ajusta la resolución y el bitrate para que encaje donde va el clip.",
     "faq.3.q": "¿Cómo funciona el atajo?",
@@ -397,8 +397,8 @@ window.I18N = {
     "feat.2.body": "Les clips de région sortent en GIF optimisés ou en MP4 H.265 &mdash; souvent bien en dessous d'un mégaoctet, pas les 200 Mo que QuickTime vous donne pour les mêmes dix secondes. Le préréglage <b style=\"color:var(--indigo2)\">Slack</b> plafonne la résolution à ≤960px pour qu'un clip d'interface reste petit ; un plein écran 4K pèse naturellement plus.",
     "feat.3.title": "Des préréglages qui<br>visent juste",
     "feat.3.body": "Choisissez la destination et Lightcap dimensionne le clip pour qu'il rentre : <b style=\"color:var(--indigo2)\">Slack</b> (&lt;2 Mo), <b style=\"color:var(--indigo2)\">GitHub</b> (&lt;10 Mo) ou <b style=\"color:var(--indigo2)\">Docs</b>. La fréquence d'images adaptative évite de gaspiller 60 ips sur un terminal immobile &mdash; il enregistre ce qui bouge vraiment.",
-    "feat.4.title": "Rogner, surligner,<br>historique",
-    "feat.4.body": "Ajustez le début et la fin d'un clip avec un rognage en ligne rapide avant qu'il n'atterrisse. Les clics sont surlignés automatiquement pour que les spectateurs suivent, et vos 20 derniers clips restent dans un historique local &mdash; un clic pour recopier ou ouvrir le dossier. Tout sur l'appareil. Achat unique.",
+    "feat.4.title": "Cadre en direct<br>& historique",
+    "feat.4.body": "Un cadre en direct délimite exactement ce que vous enregistrez, pour toujours connaître les bords. Vos 20 derniers clips restent dans un historique local — ouvrez-en un ou affichez-le dans le Finder en un clic. Tout sur l'appareil. Achat unique.",
 
     "pre.label": "// Préréglages de taille",
     "pre.1.name": "Slack",
@@ -436,7 +436,7 @@ window.I18N = {
 
     "faq.label": "// Questions",
     "faq.1.q": "Est-ce que quelque chose quitte mon Mac ?",
-    "faq.1.a": "Non. L'enregistrement, l'encodage, l'optimisation et le rognage s'exécutent entièrement sur votre Mac. Vos enregistrements d'écran ne sont jamais envoyés nulle part. Les seules connexions réseau que Lightcap établit sont une vérification de mise à jour et une validation de licence ponctuelle — jamais vos clips. Vous pouvez le vérifier vous-même avec un pare-feu comme Little Snitch ou LuLu.",
+    "faq.1.a": "Non. L'enregistrement, l'encodage et l'optimisation s'exécutent entièrement sur votre Mac. Vos enregistrements d'écran ne sont jamais envoyés nulle part. Les seules connexions réseau que Lightcap établit sont une vérification de mise à jour et une validation de licence ponctuelle — jamais vos clips. Vous pouvez le vérifier vous-même avec un pare-feu comme Little Snitch ou LuLu.",
     "faq.2.q": "Quels formats génère-t-il ?",
     "faq.2.a": "GIF animé optimisé et MP4 H.265 (HEVC). Le GIF est le plus universellement collable ; le MP4 H.265 donne des fichiers bien plus petits à meilleure qualité pour les endroits qui acceptent la vidéo. Vous choisissez le format par défaut, et un préréglage de taille (Slack / GitHub / Docs) ajuste la résolution et le débit selon la destination du clip.",
     "faq.3.q": "Comment fonctionne le raccourci ?",
@@ -545,8 +545,8 @@ window.I18N = {
     "feat.2.body": "Bereichsclips kommen als optimierte GIFs oder H.265-MP4s heraus &mdash; oft deutlich unter einem Megabyte, nicht die 200 MB, die dir QuickTime für dieselben zehn Sekunden gibt. Die <b style=\"color:var(--indigo2)\">Slack</b>-Vorgabe begrenzt die Auflösung auf ≤960px, damit ein UI-Clip klein bleibt; ein Vollbild in 4K wiegt naturgemäß mehr.",
     "feat.3.title": "Vorgaben, die<br>ins Ziel treffen",
     "feat.3.body": "Wähle das Ziel und Lightcap passt die Clipgröße an: <b style=\"color:var(--indigo2)\">Slack</b> (&lt;2 MB), <b style=\"color:var(--indigo2)\">GitHub</b> (&lt;10 MB) oder <b style=\"color:var(--indigo2)\">Docs</b>. Die adaptive Bildrate verschwendet keine 60fps auf ein stehendes Terminal &mdash; sie nimmt auf, was sich wirklich bewegt.",
-    "feat.4.title": "Zuschneiden, hervorheben,<br>Verlauf",
-    "feat.4.body": "Schneide Anfang und Ende eines Clips mit einem schnellen Inline-Trim, bevor er landet. Klicks werden automatisch hervorgehoben, damit Zuschauer folgen können, und deine letzten 20 Clips bleiben in einem lokalen Verlauf &mdash; ein Klick zum erneuten Kopieren oder zum Öffnen des Ordners. Alles auf dem Gerät. Einmalkauf.",
+    "feat.4.title": "Live-Rahmen<br>& Verlauf",
+    "feat.4.body": "Ein Live-Rahmen zeigt genau, was du aufnimmst, damit du die Grenzen immer kennst. Deine letzten 20 Clips bleiben in einem lokalen Verlauf — öffne einen Clip oder zeige ihn im Finder mit einem Klick. Alles auf dem Gerät. Einmaliger Kauf.",
 
     "pre.label": "// Größenvorgaben",
     "pre.1.name": "Slack",
@@ -584,7 +584,7 @@ window.I18N = {
 
     "faq.label": "// Fragen",
     "faq.1.q": "Verlässt irgendetwas meinen Mac?",
-    "faq.1.a": "Nein. Aufnahme, Kodierung, Optimierung und Zuschnitt laufen vollständig auf deinem Mac. Deine Bildschirmaufnahmen werden nirgendwohin hochgeladen. Die einzigen Netzwerkverbindungen, die Lightcap je herstellt, sind eine Update-Prüfung und eine einmalige Lizenzvalidierung — niemals deine Clips. Du kannst das selbst mit einer Firewall wie Little Snitch oder LuLu prüfen.",
+    "faq.1.a": "Nein. Aufnahme, Kodierung und Optimierung laufen vollständig auf deinem Mac. Deine Bildschirmaufnahmen werden nirgendwohin hochgeladen. Die einzigen Netzwerkverbindungen, die Lightcap je herstellt, sind eine Update-Prüfung und eine einmalige Lizenzvalidierung — niemals deine Clips. Du kannst das selbst mit einer Firewall wie Little Snitch oder LuLu prüfen.",
     "faq.2.q": "Welche Formate gibt es aus?",
     "faq.2.a": "Optimiertes animiertes GIF und H.265-(HEVC-)MP4. GIF ist am universellsten einfügbar; H.265-MP4 liefert dir viel kleinere Dateien in höherer Qualität für Orte, die Video akzeptieren. Du wählst den Standard, und eine Größenvorgabe (Slack / GitHub / Docs) stimmt Auflösung und Bitrate auf das Ziel des Clips ab.",
     "faq.3.q": "Wie funktioniert das Tastenkürzel?",
@@ -693,8 +693,8 @@ window.I18N = {
     "feat.2.body": "Le clip di regione escono come GIF ottimizzati o MP4 H.265 &mdash; spesso ben sotto il megabyte, non i 200 MB che QuickTime ti consegna per gli stessi dieci secondi. Il preset <b style=\"color:var(--indigo2)\">Slack</b> limita la risoluzione a ≤960px così una clip di interfaccia resta piccola; uno schermo intero in 4K pesa naturalmente di più.",
     "feat.3.title": "Preset che<br>centrano il bersaglio",
     "feat.3.body": "Scegli dove va e Lightcap dimensiona la clip perché entri: <b style=\"color:var(--indigo2)\">Slack</b> (&lt;2 MB), <b style=\"color:var(--indigo2)\">GitHub</b> (&lt;10 MB) o <b style=\"color:var(--indigo2)\">Docs</b>. Il frame rate adattivo evita di sprecare 60fps su un terminale fermo &mdash; registra ciò che si muove davvero.",
-    "feat.4.title": "Taglia, evidenzia,<br>cronologia",
-    "feat.4.body": "Rifinisci inizio e fine di una clip con un taglio rapido in linea prima che finisca negli appunti. I clic vengono evidenziati automaticamente così chi guarda può seguire, e le tue ultime 20 clip restano in una cronologia locale &mdash; un clic per ricopiare o aprire la cartella. Tutto sul dispositivo. Pagamento unico.",
+    "feat.4.title": "Bordo dal vivo<br>e cronologia",
+    "feat.4.body": "Un bordo dal vivo inquadra esattamente ciò che stai registrando, così conosci sempre i limiti. I tuoi ultimi 20 clip restano in una cronologia locale — apri un clip o mostralo nel Finder con un clic. Tutto sul dispositivo. Acquisto singolo.",
 
     "pre.label": "// Preset di dimensione",
     "pre.1.name": "Slack",
@@ -732,7 +732,7 @@ window.I18N = {
 
     "faq.label": "// Domande",
     "faq.1.q": "Qualcosa lascia il mio Mac?",
-    "faq.1.a": "No. Registrazione, codifica, ottimizzazione e taglio girano interamente sul tuo Mac. Le tue registrazioni dello schermo non vengono mai caricate da nessuna parte. Le uniche connessioni di rete che Lightcap fa sono un controllo aggiornamenti e una validazione di licenza una tantum — mai le tue clip. Puoi verificarlo tu stesso con un firewall come Little Snitch o LuLu.",
+    "faq.1.a": "No. Registrazione, codifica e ottimizzazione girano interamente sul tuo Mac. Le tue registrazioni dello schermo non vengono mai caricate da nessuna parte. Le uniche connessioni di rete che Lightcap fa sono un controllo aggiornamenti e una validazione di licenza una tantum — mai le tue clip. Puoi verificarlo tu stesso con un firewall come Little Snitch o LuLu.",
     "faq.2.q": "Quali formati produce?",
     "faq.2.a": "GIF animato ottimizzato e MP4 H.265 (HEVC). Il GIF è il più universalmente incollabile; l'MP4 H.265 ti dà file molto più piccoli a qualità superiore per i posti che accettano video. Scegli tu il formato predefinito, e un preset di dimensione (Slack / GitHub / Docs) regola risoluzione e bitrate in base a dove va la clip.",
     "faq.3.q": "Come funziona la scorciatoia?",
@@ -841,8 +841,8 @@ window.I18N = {
     "feat.2.body": "Os clipes de região saem como GIFs otimizados ou MP4 H.265 &mdash; muitas vezes bem abaixo de um megabyte, não os 200 MB que o QuickTime te entrega pelos mesmos dez segundos. A predefinição <b style=\"color:var(--indigo2)\">Slack</b> limita a resolução a ≤960px para que um clipe de interface fique pequeno; uma tela inteira em 4K pesa mais, naturalmente.",
     "feat.3.title": "Predefinições que<br>acertam o alvo",
     "feat.3.body": "Escolha para onde vai e o Lightcap dimensiona o clipe para caber: <b style=\"color:var(--indigo2)\">Slack</b> (&lt;2 MB), <b style=\"color:var(--indigo2)\">GitHub</b> (&lt;10 MB) ou <b style=\"color:var(--indigo2)\">Docs</b>. A taxa de quadros adaptativa evita desperdiçar 60fps num terminal parado &mdash; grava o que de fato se move.",
-    "feat.4.title": "Corte, destaque,<br>histórico",
-    "feat.4.body": "Ajuste o início e o fim de um clipe com um corte rápido em linha antes de ele cair. Os cliques são destacados automaticamente para que quem assiste consiga acompanhar, e os seus últimos 20 clipes ficam num histórico local &mdash; um clique para recopiar ou abrir a pasta. Tudo no dispositivo. Pagamento único.",
+    "feat.4.title": "Contorno ao vivo<br>e histórico",
+    "feat.4.body": "Um contorno ao vivo enquadra exatamente o que estás a gravar, para saberes sempre os limites. Os teus últimos 20 clips ficam num histórico local — abre qualquer um ou mostra-o no Finder com um clique. Tudo no dispositivo. Compra única.",
 
     "pre.label": "// Predefinições de tamanho",
     "pre.1.name": "Slack",
@@ -880,7 +880,7 @@ window.I18N = {
 
     "faq.label": "// Perguntas",
     "faq.1.q": "Alguma coisa sai do meu Mac?",
-    "faq.1.a": "Não. Gravação, codificação, otimização e corte rodam inteiramente no seu Mac. As suas gravações de tela nunca são enviadas para lugar nenhum. As únicas conexões de rede que o Lightcap faz são uma verificação de atualização e uma validação de licença única — nunca os seus clipes. Você pode confirmar isso você mesmo com um firewall como o Little Snitch ou o LuLu.",
+    "faq.1.a": "Não. Gravação, codificação e otimização rodam inteiramente no seu Mac. As suas gravações de tela nunca são enviadas para lugar nenhum. As únicas conexões de rede que o Lightcap faz são uma verificação de atualização e uma validação de licença única — nunca os seus clipes. Você pode confirmar isso você mesmo com um firewall como o Little Snitch ou o LuLu.",
     "faq.2.q": "Quais formatos ele gera?",
     "faq.2.a": "GIF animado otimizado e MP4 H.265 (HEVC). O GIF é o mais universalmente colável; o MP4 H.265 te dá arquivos muito menores com qualidade maior para lugares que aceitam vídeo. Você escolhe o padrão, e uma predefinição de tamanho (Slack / GitHub / Docs) ajusta a resolução e o bitrate conforme o destino do clipe.",
     "faq.3.q": "Como funciona o atalho?",
@@ -989,8 +989,8 @@ window.I18N = {
     "feat.2.body": "範囲クリップは最適化された GIF または H.265 MP4 で出力されます &mdash; 同じ 10 秒でも QuickTime が渡してくる 200 MB ではなく、多くの場合 1 メガバイトを大きく下回ります。<b style=\"color:var(--indigo2)\">Slack</b> プリセットは解像度を ≤960px に抑えるので UI クリップは小さく保たれます。フルスクリーンの 4K は当然ながらより重くなります。",
     "feat.3.title": "狙いどおりに<br>収まるプリセット",
     "feat.3.body": "貼り付け先を選ぶと、Lightcap がクリップのサイズを合わせます：<b style=\"color:var(--indigo2)\">Slack</b>（&lt;2 MB）、<b style=\"color:var(--indigo2)\">GitHub</b>（&lt;10 MB）、または <b style=\"color:var(--indigo2)\">Docs</b>。適応フレームレートにより、静止したターミナルに 60fps を無駄遣いしません &mdash; 実際に動くものだけを録画します。",
-    "feat.4.title": "トリミング、ハイライト、<br>履歴",
-    "feat.4.body": "届く前に、素早いインライントリミングでクリップの前後を整えます。クリックは自動でハイライトされ、見る人が追えるようになり、直近 20 件のクリップはローカル履歴に残ります &mdash; ワンクリックで再コピーやフォルダを開けます。すべてデバイス内で。買い切り。",
+    "feat.4.title": "録画枠<br>と履歴",
+    "feat.4.body": "録画中の枠が記録範囲をそのまま示すので、境界が一目で分かります。直近 20 件のクリップはローカル履歴に残り、ワンクリックで開いたり Finder で表示できます。すべて端末内で完結。買い切り。",
 
     "pre.label": "// サイズプリセット",
     "pre.1.name": "Slack",
@@ -1028,7 +1028,7 @@ window.I18N = {
 
     "faq.label": "// よくある質問",
     "faq.1.q": "何かが私の Mac から外に出ますか？",
-    "faq.1.a": "いいえ。録画、エンコード、最適化、トリミングはすべて完全にあなたの Mac 上で動作します。あなたのスクリーン録画がどこかにアップロードされることはありません。Lightcap が行うネットワーク接続は、アップデートの確認と一度きりのライセンス検証だけで、クリップが送られることはありません。Little Snitch や LuLu のようなファイアウォールで、ご自身で確認できます。",
+    "faq.1.a": "いいえ。録画、エンコード、最適化はすべて完全にあなたの Mac 上で動作します。あなたのスクリーン録画がどこかにアップロードされることはありません。Lightcap が行うネットワーク接続は、アップデートの確認と一度きりのライセンス検証だけで、クリップが送られることはありません。Little Snitch や LuLu のようなファイアウォールで、ご自身で確認できます。",
     "faq.2.q": "どんな形式で出力しますか？",
     "faq.2.a": "最適化されたアニメーション GIF と H.265（HEVC）MP4 です。GIF は最も広く貼り付けられ、H.265 MP4 は動画を受け付ける場所向けに、より高品質ではるかに小さいファイルになります。既定の形式を選び、サイズプリセット（Slack / GitHub / Docs）がクリップの貼り付け先に合わせて解像度とビットレートを調整します。",
     "faq.3.q": "ホットキーはどう動きますか？",
@@ -1137,8 +1137,8 @@ window.I18N = {
     "feat.2.body": "区域片段以优化的 GIF 或 H.265 MP4 输出 &mdash; 往往远低于一兆字节，而不是 QuickTime 为同样十秒交给你的 200 MB。<b style=\"color:var(--indigo2)\">Slack</b> 预设把分辨率限制在 ≤960px，让界面片段保持小巧；全屏 4K 自然会更重。",
     "feat.3.title": "正中目标的<br>预设",
     "feat.3.body": "选好去向，Lightcap 就会把片段调整到合适大小：<b style=\"color:var(--indigo2)\">Slack</b>（&lt;2 MB）、<b style=\"color:var(--indigo2)\">GitHub</b>（&lt;10 MB）或 <b style=\"color:var(--indigo2)\">Docs</b>。自适应帧率意味着它不会在静止的终端上浪费 60fps &mdash; 只录真正在动的内容。",
-    "feat.4.title": "裁剪、高亮、<br>历史",
-    "feat.4.body": "在片段落地前，用快速的内置裁剪修整首尾。点击会被自动高亮，方便观看者跟随，你最近的 20 个片段会留在本地历史里 &mdash; 一键即可重新复制或打开文件夹。一切都在本机进行。一次性付费。",
+    "feat.4.title": "实时边框<br>与历史",
+    "feat.4.body": "实时边框精确框出正在录制的范围，让你随时掌握边界。最近 20 个剪辑保存在本地历史中——一键打开或在访达中显示。全部在本机完成。一次买断。",
 
     "pre.label": "// 尺寸预设",
     "pre.1.name": "Slack",
@@ -1176,7 +1176,7 @@ window.I18N = {
 
     "faq.label": "// 常见问题",
     "faq.1.q": "有任何东西离开我的 Mac 吗？",
-    "faq.1.a": "没有。录制、编码、优化和裁剪全部完全在你的 Mac 上进行。你的屏幕录制绝不会被上传到任何地方。Lightcap 唯一会建立的网络连接是一次更新检查和一次性的许可证验证 — 绝不包含你的片段。你可以自己用 Little Snitch 或 LuLu 这样的防火墙工具来确认。",
+    "faq.1.a": "没有。录制、编码和优化全部完全在你的 Mac 上进行。你的屏幕录制绝不会被上传到任何地方。Lightcap 唯一会建立的网络连接是一次更新检查和一次性的许可证验证 — 绝不包含你的片段。你可以自己用 Little Snitch 或 LuLu 这样的防火墙工具来确认。",
     "faq.2.q": "它输出哪些格式？",
     "faq.2.a": "优化的动态 GIF 和 H.265（HEVC）MP4。GIF 最为通用、随处可粘贴；H.265 MP4 则为接受视频的场合提供画质更高、体积小得多的文件。你选择默认格式，尺寸预设（Slack / GitHub / Docs）会根据片段的去向调整分辨率和码率。",
     "faq.3.q": "快捷键如何工作？",
