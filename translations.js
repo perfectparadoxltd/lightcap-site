@@ -28,6 +28,11 @@ window.I18N = {
   /* ===================================================================== EN */
   en: {
     /* idiomas + feedback (multiidioma + formulario) */
+    "news.label": "// What's new",
+    "news.latest": "Latest",
+    "news.012.1": "Lightcap now speaks 8 languages — the whole interface follows your Mac and shows up in your language out of the box.",
+    "news.011.1": "More reliable captures — fixed the last frames being dropped when you stop a recording, so your clip is complete every time.",
+    "news.010.1": "Initial release: capture a region of your screen and get a tiny, optimised GIF — with size presets for Slack, GitHub and Docs, all on-device.",
     "hero.langs": "8 languages",
     "marquee.5": "8 LANGUAGES",
     "langs.label": "// Speaks your language",
@@ -170,6 +175,11 @@ window.I18N = {
   /* ===================================================================== ES */
   es: {
     /* idiomas + feedback (multiidioma + formulario) */
+    "news.label": "// Novedades",
+    "news.latest": "Última",
+    "news.012.1": "Lightcap ya habla 8 idiomas — toda la interfaz sigue el idioma de tu Mac y aparece en el tuyo desde el primer momento.",
+    "news.011.1": "Capturas más fiables: corregido que se perdieran los últimos fotogramas al detener una grabación, así tu clip queda completo siempre.",
+    "news.010.1": "Lanzamiento inicial: captura una región de tu pantalla y obtén un GIF diminuto y optimizado — con ajustes de tamaño para Slack, GitHub y Docs, todo en tu dispositivo.",
     "hero.langs": "8 idiomas",
     "marquee.5": "8 IDIOMAS",
     "langs.label": "// Habla tu idioma",
@@ -312,6 +322,11 @@ window.I18N = {
   /* ===================================================================== FR */
   fr: {
     /* idiomas + feedback (multiidioma + formulario) */
+    "news.label": "// Nouveautés",
+    "news.latest": "Récent",
+    "news.012.1": "Lightcap parle désormais 8 langues — toute l'interface suit la langue de votre Mac et s'affiche dans la vôtre dès le départ.",
+    "news.011.1": "Captures plus fiables — corrigé la perte des dernières images à l'arrêt d'un enregistrement, pour un clip toujours complet.",
+    "news.010.1": "Version initiale : capturez une région de votre écran et obtenez un GIF minuscule et optimisé — avec des préréglages de taille pour Slack, GitHub et Docs, le tout sur l'appareil.",
     "hero.langs": "8 langues",
     "marquee.5": "8 LANGUES",
     "langs.label": "// Parle votre langue",
@@ -454,6 +469,11 @@ window.I18N = {
   /* ===================================================================== DE */
   de: {
     /* idiomas + feedback (multiidioma + formulario) */
+    "news.label": "// Neuigkeiten",
+    "news.latest": "Neu",
+    "news.012.1": "Lightcap spricht jetzt 8 Sprachen — die gesamte Oberfläche folgt der Sprache deines Macs und erscheint von Anfang an in deiner.",
+    "news.011.1": "Zuverlässigere Aufnahmen — behoben, dass die letzten Frames beim Stoppen einer Aufnahme verloren gingen, damit dein Clip immer vollständig ist.",
+    "news.010.1": "Erste Version: Nimm einen Bereich deines Bildschirms auf und erhalte ein winziges, optimiertes GIF — mit Größenvorgaben für Slack, GitHub und Docs, alles auf dem Gerät.",
     "hero.langs": "8 Sprachen",
     "marquee.5": "8 SPRACHEN",
     "langs.label": "// Spricht deine Sprache",
@@ -596,6 +616,11 @@ window.I18N = {
   /* ===================================================================== IT */
   it: {
     /* idiomas + feedback (multiidioma + formulario) */
+    "news.label": "// Novità",
+    "news.latest": "Ultima",
+    "news.012.1": "Lightcap ora parla 8 lingue — l'intera interfaccia segue la lingua del tuo Mac e compare nella tua fin da subito.",
+    "news.011.1": "Catture più affidabili — corretta la perdita degli ultimi fotogrammi quando interrompi una registrazione, così la tua clip è sempre completa.",
+    "news.010.1": "Versione iniziale: cattura una regione dello schermo e ottieni una GIF piccola e ottimizzata — con preset di dimensione per Slack, GitHub e Docs, tutto sul dispositivo.",
     "hero.langs": "8 lingue",
     "marquee.5": "8 LINGUE",
     "langs.label": "// Parla la tua lingua",
@@ -738,6 +763,11 @@ window.I18N = {
   /* ===================================================================== PT */
   pt: {
     /* idiomas + feedback (multiidioma + formulario) */
+    "news.label": "// Novidades",
+    "news.latest": "Recente",
+    "news.012.1": "O Lightcap agora fala 8 idiomas — toda a interface segue o idioma do teu Mac e aparece no teu desde o primeiro momento.",
+    "news.011.1": "Capturas mais fiáveis — corrigida a perda dos últimos fotogramas ao parar uma gravação, para que o teu clipe fique sempre completo.",
+    "news.010.1": "Lançamento inicial: captura uma região do teu ecrã e obtém um GIF minúsculo e otimizado — com predefinições de tamanho para Slack, GitHub e Docs, tudo no dispositivo.",
     "hero.langs": "8 idiomas",
     "marquee.5": "8 IDIOMAS",
     "langs.label": "// Fala a sua língua",
@@ -880,6 +910,11 @@ window.I18N = {
   /* ===================================================================== JA */
   ja: {
     /* idiomas + feedback (multiidioma + formulario) */
+    "news.label": "// 新着情報",
+    "news.latest": "最新",
+    "news.012.1": "Lightcap が 8 言語に対応しました。インターフェース全体が Mac の言語に従い、最初からあなたの言語で表示されます。",
+    "news.011.1": "より確実なキャプチャに。録画を停止したときに最後のフレームが失われる問題を修正し、クリップが常に完全になりました。",
+    "news.010.1": "初回リリース：画面の一部をキャプチャして、小さく最適化された GIF を作成。Slack・GitHub・Docs 向けのサイズプリセット付きで、すべて端末内で処理します。",
     "hero.langs": "8言語",
     "marquee.5": "8言語対応",
     "langs.label": "// あなたの言語で",
@@ -1022,6 +1057,11 @@ window.I18N = {
   /* ================================================================ zh-Hans */
   "zh-Hans": {
     /* idiomas + feedback (multiidioma + formulario) */
+    "news.label": "// 新功能",
+    "news.latest": "最新",
+    "news.012.1": "Lightcap 现已支持 8 种语言——整个界面跟随你的 Mac 语言，开箱即以你的语言显示。",
+    "news.011.1": "更可靠的录制——修复了停止录制时丢失最后几帧的问题，让你的片段每次都完整。",
+    "news.010.1": "首个版本：框选屏幕的某个区域，即可得到一个小巧、优化过的 GIF——内置适配 Slack、GitHub 和 Docs 的尺寸预设，全部在本机完成。",
     "hero.langs": "8 种语言",
     "marquee.5": "8 种语言",
     "langs.label": "// 说你的语言",
