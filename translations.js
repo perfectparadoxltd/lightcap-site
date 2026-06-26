@@ -165,6 +165,7 @@ window.I18N = {
     "more.slimr": "Compress, OCR & PDF tools",
     "more.castly": "Transform text as you paste",
     "more.scrubd": "Clean metadata before you share",
+    "more.orthoframe": "Sort clinic photos into ABO sheets",
 
     "footer.copy": "© 2026 Perfect Paradox Ltd · NI739317",
     "footer.privacy": "Privacy",
@@ -313,6 +314,7 @@ window.I18N = {
     "more.slimr": "Compresión, OCR y herramientas PDF",
     "more.castly": "Transforma el texto al pegar",
     "more.scrubd": "Limpia los metadatos antes de compartir",
+    "more.orthoframe": "Ordena fotos clínicas en hojas ABO",
 
     "footer.copy": "© 2026 Perfect Paradox Ltd · NI739317",
     "footer.privacy": "Privacidad",
@@ -461,6 +463,7 @@ window.I18N = {
     "more.slimr": "Compression, OCR et outils PDF",
     "more.castly": "Transformer le texte au collage",
     "more.scrubd": "Nettoyez les métadonnées avant de partager",
+    "more.orthoframe": "Trie les photos cliniques en fiches ABO",
 
     "footer.copy": "© 2026 Perfect Paradox Ltd · NI739317",
     "footer.privacy": "Confidentialité",
@@ -609,6 +612,7 @@ window.I18N = {
     "more.slimr": "Komprimieren, OCR & PDF-Tools",
     "more.castly": "Text beim Einfügen umwandeln",
     "more.scrubd": "Metadaten vor dem Teilen säubern",
+    "more.orthoframe": "Klinikfotos in ABO-Blätter sortieren",
 
     "footer.copy": "© 2026 Perfect Paradox Ltd · NI739317",
     "footer.privacy": "Datenschutz",
@@ -757,6 +761,7 @@ window.I18N = {
     "more.slimr": "Compressione, OCR e strumenti PDF",
     "more.castly": "Trasforma il testo mentre incolli",
     "more.scrubd": "Pulisci i metadati prima di condividere",
+    "more.orthoframe": "Ordina le foto cliniche in schede ABO",
 
     "footer.copy": "© 2026 Perfect Paradox Ltd · NI739317",
     "footer.privacy": "Privacy",
@@ -905,6 +910,7 @@ window.I18N = {
     "more.slimr": "Compressão, OCR e ferramentas PDF",
     "more.castly": "Transforme o texto ao colar",
     "more.scrubd": "Limpe os metadados antes de compartilhar",
+    "more.orthoframe": "Organiza fotos clínicas em fichas ABO",
 
     "footer.copy": "© 2026 Perfect Paradox Ltd · NI739317",
     "footer.privacy": "Privacidade",
@@ -1053,6 +1059,7 @@ window.I18N = {
     "more.slimr": "圧縮、OCR、PDF ツール",
     "more.castly": "貼り付けながらテキストを変換",
     "more.scrubd": "共有前にメタデータを消去",
+    "more.orthoframe": "臨床写真を ABO シートに整理",
 
     "footer.copy": "© 2026 Perfect Paradox Ltd · NI739317",
     "footer.privacy": "プライバシー",
@@ -1201,6 +1208,7 @@ window.I18N = {
     "more.slimr": "压缩、OCR 和 PDF 工具",
     "more.castly": "粘贴时即转换文本",
     "more.scrubd": "分享前清除元数据",
+    "more.orthoframe": "把临床照片归入 ABO 表",
 
     "footer.copy": "© 2026 Perfect Paradox Ltd · NI739317",
     "footer.privacy": "隐私",
