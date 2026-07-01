@@ -179,6 +179,7 @@ window.I18N = {
     /* idiomas + feedback (multiidioma + formulario) */
     "news.label": "// Novedades",
     "news.latest": "Última",
+    "news.022.1": "Los GIF ya se reproducen a la velocidad correcta — corregidas las grabaciones que salían hasta 2,5× demasiado rápidas en los presets de Slack, GitHub y Docs.",
     "news.020.1": "Gran actualización: exporta un WebP animado diminuto o un MP4 H.265 —no solo GIF— con un borde de grabación en vivo, captura Retina nativa más nítida y soporte multipantalla.",
     "news.012.1": "Lightcap ya habla 8 idiomas — toda la interfaz sigue el idioma de tu Mac y aparece en el tuyo desde el primer momento.",
     "news.011.1": "Capturas más fiables: corregido que se perdieran los últimos fotogramas al detener una grabación, así tu clip queda completo siempre.",
@@ -328,6 +329,7 @@ window.I18N = {
     /* idiomas + feedback (multiidioma + formulario) */
     "news.label": "// Nouveautés",
     "news.latest": "Récent",
+    "news.022.1": "Les GIF sont désormais lus à la bonne vitesse — correction des enregistrements jusqu'à 2,5× trop rapides avec les préréglages Slack, GitHub et Docs.",
     "news.020.1": "Grosse mise à jour : exportez un WebP animé minuscule ou un MP4 H.265 — plus seulement du GIF — avec un contour d'enregistrement en direct, une capture Retina native plus nette et la prise en charge multi-écran.",
     "news.012.1": "Lightcap parle désormais 8 langues — toute l'interface suit la langue de votre Mac et s'affiche dans la vôtre dès le départ.",
     "news.011.1": "Captures plus fiables — corrigé la perte des dernières images à l'arrêt d'un enregistrement, pour un clip toujours complet.",
@@ -477,6 +479,7 @@ window.I18N = {
     /* idiomas + feedback (multiidioma + formulario) */
     "news.label": "// Neuigkeiten",
     "news.latest": "Neu",
+    "news.022.1": "GIFs laufen jetzt in der richtigen Geschwindigkeit — Aufnahmen waren mit den Slack-, GitHub- und Docs-Presets bis zu 2,5× zu schnell.",
     "news.020.1": "Großes Update: exportiere ein winziges animiertes WebP oder ein H.265-MP4 – nicht nur GIF – mit Live-Aufnahmerahmen, schärferer nativer Retina-Aufnahme und Multi-Display-Unterstützung.",
     "news.012.1": "Lightcap spricht jetzt 8 Sprachen — die gesamte Oberfläche folgt der Sprache deines Macs und erscheint von Anfang an in deiner.",
     "news.011.1": "Zuverlässigere Aufnahmen — behoben, dass die letzten Frames beim Stoppen einer Aufnahme verloren gingen, damit dein Clip immer vollständig ist.",
@@ -626,6 +629,7 @@ window.I18N = {
     /* idiomas + feedback (multiidioma + formulario) */
     "news.label": "// Novità",
     "news.latest": "Ultima",
+    "news.022.1": "Le GIF ora vengono riprodotte alla velocità giusta — corrette le registrazioni fino a 2,5× troppo veloci con i preset Slack, GitHub e Docs.",
     "news.020.1": "Grande aggiornamento: esporta un WebP animato minuscolo o un MP4 H.265 — non solo GIF — con un bordo di registrazione dal vivo, cattura Retina nativa più nitida e supporto multi-display.",
     "news.012.1": "Lightcap ora parla 8 lingue — l'intera interfaccia segue la lingua del tuo Mac e compare nella tua fin da subito.",
     "news.011.1": "Catture più affidabili — corretta la perdita degli ultimi fotogrammi quando interrompi una registrazione, così la tua clip è sempre completa.",
@@ -775,6 +779,7 @@ window.I18N = {
     /* idiomas + feedback (multiidioma + formulario) */
     "news.label": "// Novidades",
     "news.latest": "Recente",
+    "news.022.1": "Os GIFs agora tocam na velocidade certa — corrigidas as gravações que saíam até 2,5× rápidas demais nos presets Slack, GitHub e Docs.",
     "news.020.1": "Grande atualização: exporta um WebP animado minúsculo ou um MP4 H.265 — não só GIF — com um contorno de gravação ao vivo, captura nativa Retina mais nítida e suporte multiecrã.",
     "news.012.1": "O Lightcap agora fala 8 idiomas — toda a interface segue o idioma do teu Mac e aparece no teu desde o primeiro momento.",
     "news.011.1": "Capturas mais fiáveis — corrigida a perda dos últimos fotogramas ao parar uma gravação, para que o teu clipe fique sempre completo.",
@@ -924,6 +929,7 @@ window.I18N = {
     /* idiomas + feedback (multiidioma + formulario) */
     "news.label": "// 新着情報",
     "news.latest": "最新",
+    "news.022.1": "GIFが正しい速度で再生されるようになりました — Slack・GitHub・Docsプリセットで最大2.5倍速くなる問題を修正。",
     "news.020.1": "大型アップデート：GIF だけでなく、小さなアニメーション WebP や H.265 MP4 で書き出し可能に。録画中の枠表示、よりくっきりした Retina ネイティブ撮影、マルチディスプレイ対応も加わりました。",
     "news.012.1": "Lightcap が 8 言語に対応しました。インターフェース全体が Mac の言語に従い、最初からあなたの言語で表示されます。",
     "news.011.1": "より確実なキャプチャに。録画を停止したときに最後のフレームが失われる問題を修正し、クリップが常に完全になりました。",
@@ -1073,6 +1079,7 @@ window.I18N = {
     /* idiomas + feedback (multiidioma + formulario) */
     "news.label": "// 新功能",
     "news.latest": "最新",
+    "news.022.1": "GIF 现在以正确的速度播放 — 修复了 Slack、GitHub 和 Docs 预设下录制最快达 2.5 倍速的问题。",
     "news.020.1": "重大更新：除 GIF 外，还可导出小巧的动态 WebP 与 H.265 MP4，并新增录制实时边框、更清晰的 Retina 原生采集与多显示器支持。",
     "news.012.1": "Lightcap 现已支持 8 种语言——整个界面跟随你的 Mac 语言，开箱即以你的语言显示。",
     "news.011.1": "更可靠的录制——修复了停止录制时丢失最后几帧的问题，让你的片段每次都完整。",
