@@ -3,6 +3,18 @@
     <channel>
         <title>Lightcap</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Wed, 01 Jul 2026 22:03:04 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://lightcap.perfectparadox.co.uk/Lightcap-0.2.2.zip" length="4118669" type="application/octet-stream" sparkle:edSignature="q+3aX9zcSYmFtVsP0Hr+94Us/OOaqRoHN0GMiXSPdpoE00OPmOdK3GpZ47MKKvD6dt2jH0yzEnSRIegy/AxYAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://lightcap.perfectparadox.co.uk/Lightcap6-5.delta" sparkle:deltaFrom="5" length="28754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eo/A566cv64uP6/kfgWro3/iUMx0gadYN1io8wulnh7XpSYeq0OlhUluQUciQT9Nrz6bys6nYOiTQ5vucPUHAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Tue, 23 Jun 2026 22:36:33 +0100</pubDate>
             <sparkle:version>5</sparkle:version>
